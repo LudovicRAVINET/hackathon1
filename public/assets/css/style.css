@@ -130,14 +130,14 @@ nav h1{
 
 .clignote {
     text-align: center;
-    color:green;
+    color:var(--orange-crayola);
     animation: clignote 2s linear infinite;
 }
 @keyframes clignote {
     50% { opacity: 0; }
 }
 .textemulticolore .festoch h1{
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    background-image: linear-gradient(to left, #f55536, #ff773d, #f19143,#f19143,#ff773d,#f55536);
     -webkit-background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -227,6 +227,7 @@ canvas {
 }
 .landCard{
     margin: 0 1.5rem;
+    display: inline-block;
 }
 canvas{
     margin-top:20rem;
