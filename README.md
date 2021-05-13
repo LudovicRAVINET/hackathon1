@@ -8,6 +8,19 @@ This repository is a simple PHP MVC structure from scratch.
 
 It uses some cool vendors/libraries such as Twig and Grumphp.
 
+## Result pictures
+
+Home :
+![Home picture](home.png)
+
+Hiking:
+![Hiking picture 1](interest_point.png)
+![Hiking picture 2](robot_move.png)
+
+Festival:
+![Festival picture 1](festival.png)
+![Festival picture 2](captcha_festival.png)
+
 ## Steps
 
 1. Clone the repo from Github.
